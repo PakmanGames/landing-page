@@ -4,6 +4,7 @@ I was able to apply my newly learned skills in creating a landing-page based on 
 It was a very much enjoyable project that I had fun making and learned concepts beyond what the course had taught, such as styling images, rounded borders, and webpage icons.
 
 References for images and other links used:
+
 [Banana Logo](https://unsplash.com/photos/yellow-banana-on-white-background-Kl3467edwsE)
 
 [Banana Suit](https://pixabay.com/photos/suit-business-man-banana-business-673697/)
