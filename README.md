@@ -27,3 +27,6 @@ https://www.allrecipes.com/recipe/43835/chocolate-banana-oatmeal-porridge/
 
 Banana Tools
 https://blog.loosco.com/loos-cableware/blog/three-tools-commonly-used-on-banana-plantations
+
+Banana Newsletter:
+https://www.bananalink.org.uk/newsletters/
