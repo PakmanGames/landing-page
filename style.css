@@ -23,6 +23,10 @@ a:hover {
     text-decoration: underline;
 }
 
+img {
+    /* border: 5px, line,#3882F6; */
+}
+
 .container {
     display: flex;
     flex-direction: column;
@@ -34,30 +38,31 @@ a:hover {
     flex: 1;
 }
 
-.header,
-.footer {
-    background-color: #1F2937;
-    color: #F9FAF8;
-}
-
 .header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #1F2937;
+}
+
+.header .title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.header .links {
+    color: #E5E7EB;
 }
 
 .footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #1F2937;
     color: #E5E7EB;
     font-size: 18px;
     padding: 20px;
-}
-
-.title {
-    font-weight: bolder;
-    font-size: 24px;
 }
 
 .block-1,
@@ -86,9 +91,54 @@ a:hover {
 
 .block-4 {
     background-color: #3882F6;
-    justify-content: center;
+    margin: 90px;
+    padding: 30px;
+    justify-content: space-evenly;
 }
 
-.images {
+.left-hero {
     display: flex;
+    flex-direction: column;
+}
+
+.left-hero .title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.left-hero .subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.block-2 .title {
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+.block-2 .images {
+    display: flex;
+    font-size: 18px;
+    color: #1F2937;
+}
+
+.block-3 .paragraph {
+    font-size: 36px;
+    color:#1F2937;
+}
+
+.block-3 .reference {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+.block-4 .text {
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+.block-4 .text .title {
+    font-weight: bold;
 }
