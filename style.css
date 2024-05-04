@@ -162,6 +162,7 @@ img {
     gap: 40px;
     font-size: 18px;
     color: #1F2937;
+    flex-wrap: wrap;
 }
 
 .block-2 .image {
@@ -169,6 +170,7 @@ img {
     flex-direction: column;
     gap: 20px;
     text-align: center;
+    max-width: 200px;
 }
 
 .block-2 img {

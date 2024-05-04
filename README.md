@@ -1,7 +1,14 @@
 # odin-landing-page
 This project concludes the Flexbox section of the Foundations course on The Odin Project.
+
 I was able to apply my newly learned skills in creating a landing-page based on the reference images that can be found in the reference-images directory.
+
 It was a very much enjoyable project that I had fun making and learned concepts beyond what the course had taught, such as styling images, rounded borders, and webpage icons.
+
+Check out the page for yourself! Click [here](https://pakmangames.github.io/odin-landing-page/)!
+
+Preview of the page:
+![odin-landing-page](./images/odin-landing-page.png)
 
 References for images and other links used:
 
