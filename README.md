@@ -1,4 +1,4 @@
-# odin-landing-page
+# landing-page
 This project utilizes concepts of flexbox and styling, made in pure HTML5 and CSS3 to create a webpage fit for all browsing resolutions.
 
 I was able to apply my newly learned skills in creating a landing-page based on the reference images that can be found in the reference-images directory.
@@ -11,6 +11,8 @@ Preview of the page:
 ![odin-landing-page](./images/odin-landing-page.png)
 
 References for images and other links used:
+
+[Reference Images](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 [Banana Logo](https://unsplash.com/photos/yellow-banana-on-white-background-Kl3467edwsE)
 
