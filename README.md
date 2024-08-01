@@ -5,7 +5,7 @@ I was able to apply my newly learned skills in creating a landing-page based on 
 
 It was a very much enjoyable project that I had fun making and learned concepts beyond what the course had taught, such as styling images, rounded borders, and webpage icons.
 
-Check out the page for yourself! Click [here](https://pakmangames.github.io/odin-landing-page/)!
+Check out the page for yourself! Click [here](https://pakmangames.github.io/landing-page/)!
 
 Preview of the page:
 ![odin-landing-page](./images/odin-landing-page.png)
